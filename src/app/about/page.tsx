@@ -6,7 +6,7 @@ const About = () => {
     <div>
       <div className='h-screen w-[100%] bg-green-300'>
         <h1 className='text-center font-medium text-2xl'>This is About Page</h1>
-        <p className=' text-center font-medium text-xl '><Link href="./home">Go to Home Page</Link></p>
+        <p className=' text-center font-medium text-xl '><Link href="/">Go to Home Page</Link></p>
       </div>
     </div>
   )
